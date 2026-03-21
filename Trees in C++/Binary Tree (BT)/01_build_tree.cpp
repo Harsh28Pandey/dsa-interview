@@ -33,5 +33,6 @@ int main() {
     cout << root->data << endl;
     cout << root->left->data << endl;
     cout << root->right->data << endl;
+    
     return 0;
 }
